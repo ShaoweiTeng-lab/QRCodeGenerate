@@ -1,0 +1,494 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.2006; Version 2009; 64bit' Language: 'zh' Physical Memory: 16301 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\unity\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UNITYteach/QRCode
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49569
+Successfully changed project path to: D:/UNITYteach/QRCode
+D:/UNITYteach/QRCode
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UNITYteach/QRCode/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   31.0.15.1640
+Initialize mono
+Mono path[0] = 'D:/unity/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002602 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.368 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.746100 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.048400 ms MarkObjects: 1.459400 ms  DeleteObjects: 0.102900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/QrCodeGenerator.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerator.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35513b9578de7b5769eacc57fd9ff940') in 0.045197 seconds
+  Import took 0.068969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.280141 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298aba7c528325201592ab7abe83d785') in 0.006512 seconds
+  Import took 0.029418 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001334 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 2.658700 ms (FindLiveObjects: 0.375500 ms CreateObjectMapping: 0.183300 ms MarkObjects: 2.007100 ms  DeleteObjects: 0.066800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.876 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.650800 ms (FindLiveObjects: 0.117100 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.450900 ms  DeleteObjects: 0.049300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.921699 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9eb6e84c1531508dedf8bd28c2f747') in 0.004046 seconds
+  Import took 0.005851 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.892 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 1.941100 ms (FindLiveObjects: 0.280000 ms CreateObjectMapping: 0.077500 ms MarkObjects: 1.528900 ms  DeleteObjects: 0.053400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.974064 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0db41a40ffbf8c58cf02d03c76a9f0') in 0.003920 seconds
+  Import took 0.018286 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001236 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 1.740300 ms (FindLiveObjects: 0.118200 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.536600 ms  DeleteObjects: 0.050800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.114136 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff3f480fe005c7e6fce144d6800fe90') in 0.005097 seconds
+  Import took 0.021698 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.483200 ms (FindLiveObjects: 0.141200 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.245200 ms  DeleteObjects: 0.054700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.725465 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d94b82947f10b00d322dd85f4e41b50') in 0.004006 seconds
+  Import took 0.006094 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001236 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.485700 ms (FindLiveObjects: 0.127900 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.269900 ms  DeleteObjects: 0.051000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001257 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.774 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 2.526800 ms (FindLiveObjects: 0.848400 ms CreateObjectMapping: 0.117100 ms MarkObjects: 1.489200 ms  DeleteObjects: 0.070500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.754 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 1.665800 ms (FindLiveObjects: 0.148200 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.423600 ms  DeleteObjects: 0.051500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001257 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 2.240800 ms (FindLiveObjects: 0.423200 ms CreateObjectMapping: 0.080000 ms MarkObjects: 1.648700 ms  DeleteObjects: 0.087300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 1.868700 ms (FindLiveObjects: 0.124600 ms CreateObjectMapping: 0.064500 ms MarkObjects: 1.626000 ms  DeleteObjects: 0.052200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 1.972200 ms (FindLiveObjects: 0.127000 ms CreateObjectMapping: 0.034300 ms MarkObjects: 1.734400 ms  DeleteObjects: 0.074800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 1.597200 ms (FindLiveObjects: 0.136800 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.366100 ms  DeleteObjects: 0.055800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1498.960966 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4537812e529db94dc4cfe76ee00b2e1') in 0.004207 seconds
+  Import took 0.010685 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 1.596700 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.042900 ms MarkObjects: 1.332800 ms  DeleteObjects: 0.058800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.533962 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1e69eadb09795fd4c38cc1c91c0538') in 0.004047 seconds
+  Import took 0.005947 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 1.697000 ms (FindLiveObjects: 0.141100 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.433100 ms  DeleteObjects: 0.084100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1244.147874 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d5fcbcab1ade7cbe1ac16f7fedcaa6') in 0.005449 seconds
+  Import took 0.007748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000988 seconds.
+  path: Assets/QrCodeGenerate.cs
+  artifactKey: Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QrCodeGenerate.cs using Guid(f5e92da32d6c9d446ab7bb773f6b2c55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d5fcbcab1ade7cbe1ac16f7fedcaa6') in 0.007213 seconds
+  Import took 0.010031 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
